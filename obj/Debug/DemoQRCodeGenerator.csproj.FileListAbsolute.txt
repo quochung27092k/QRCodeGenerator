@@ -1,0 +1,31 @@
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.exe.config
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.exe
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.pdb
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\MaterialSkin.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Redemption theme.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Simpleblue Theme.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.Properties.Resources.resources
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.QRCodeGenerator.resources
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.csproj.CopyComplete
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.exe
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.pdb
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\DemoQRCodeGenerator.exe.config
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\DemoQRCodeGenerator.exe
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\DemoQRCodeGenerator.pdb
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\MaterialSkin.dll
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Redemption theme.dll
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Simpleblue Theme.dll
+D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.csprojAssemblyReference.cache
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.Properties.Resources.resources
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.QRCodeGenerator.resources
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.csproj.GenerateResource.cache
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.csproj.CopyComplete
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.exe
+D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.pdb

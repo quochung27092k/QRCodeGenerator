@@ -1,0 +1,30 @@
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCodes.Properties.Resources.resources
+C:\Users\quoch\source\repos\Code\obj\Debug\QRCodes.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\Code\obj\Debug\QRCodes.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCodes.exe.config
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCodes.exe
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCodes.pdb
+C:\Users\quoch\source\repos\Code\bin\Debug\MaterialSkin.dll
+C:\Users\quoch\source\repos\Code\bin\Debug\Redemption theme.dll
+C:\Users\quoch\source\repos\Code\bin\Debug\Simpleblue Theme.dll
+C:\Users\quoch\source\repos\Code\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\quoch\source\repos\Code\obj\Debug\QRCodes.csproj.CopyComplete
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCodes.exe
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCodes.pdb
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCodes.QRCodes.resources
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\MaterialSkin.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Redemption theme.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Simpleblue Theme.dll
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\QRCodes.csprojAssemblyReference.cache
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\QRCodes.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\QRCodes.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\QRCodes.csproj.CopyComplete
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.Properties.Resources.resources
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.QRCodes.resources
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.exe.config
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.exe
+C:\Users\quoch\source\repos\QRCodes\bin\Debug\DemoQRCodeGenerator.pdb
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.exe
+C:\Users\quoch\source\repos\QRCodes\obj\Debug\DemoQRCodeGenerator.pdb

@@ -1,0 +1,15 @@
+C:\Users\quoch\source\repos\Code\obj\Debug\Code.csprojAssemblyReference.cache
+C:\Users\quoch\source\repos\Code\obj\Debug\Code.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\Code\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\quoch\source\repos\Code\obj\Debug\Code.csproj.CopyComplete
+C:\Users\quoch\source\repos\Code\bin\Debug\MaterialSkin.dll
+C:\Users\quoch\source\repos\Code\bin\Debug\Redemption theme.dll
+C:\Users\quoch\source\repos\Code\bin\Debug\Simpleblue Theme.dll
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCode.Properties.Resources.resources
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCode.QRCode.resources
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCode.exe.config
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCode.exe
+C:\Users\quoch\source\repos\Code\bin\Debug\DemoQRCode.pdb
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCode.exe
+C:\Users\quoch\source\repos\Code\obj\Debug\DemoQRCode.pdb
