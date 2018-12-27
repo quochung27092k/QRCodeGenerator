@@ -57,8 +57,11 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnFB = new Bunifu.Framework.UI.BunifuImageButton();
             this.btnIG = new Bunifu.Framework.UI.BunifuImageButton();
+            this.chkbD = new System.Windows.Forms.CheckBox();
+            this.simpleTransperentLabel8 = new Simpleblue_Theme.SimpleTransperentLabel();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picEncode)).BeginInit();
+            this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnFB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnIG)).BeginInit();
             this.SuspendLayout();
@@ -68,7 +71,7 @@
             this.simpleTransperentLabel1.AutoSize = true;
             this.simpleTransperentLabel1.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel1.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel1.Location = new System.Drawing.Point(21, 174);
+            this.simpleTransperentLabel1.Location = new System.Drawing.Point(21, 195);
             this.simpleTransperentLabel1.Name = "simpleTransperentLabel1";
             this.simpleTransperentLabel1.Size = new System.Drawing.Size(65, 17);
             this.simpleTransperentLabel1.TabIndex = 7;
@@ -79,7 +82,7 @@
             this.simpleTransperentLabel2.AutoSize = true;
             this.simpleTransperentLabel2.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel2.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel2.Location = new System.Drawing.Point(300, 174);
+            this.simpleTransperentLabel2.Location = new System.Drawing.Point(293, 195);
             this.simpleTransperentLabel2.Name = "simpleTransperentLabel2";
             this.simpleTransperentLabel2.Size = new System.Drawing.Size(31, 17);
             this.simpleTransperentLabel2.TabIndex = 8;
@@ -90,7 +93,7 @@
             this.simpleTransperentLabel3.AutoSize = true;
             this.simpleTransperentLabel3.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel3.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel3.Location = new System.Drawing.Point(296, 220);
+            this.simpleTransperentLabel3.Location = new System.Drawing.Point(12, 397);
             this.simpleTransperentLabel3.Name = "simpleTransperentLabel3";
             this.simpleTransperentLabel3.Size = new System.Drawing.Size(39, 17);
             this.simpleTransperentLabel3.TabIndex = 10;
@@ -101,7 +104,7 @@
             this.simpleTransperentLabel4.AutoSize = true;
             this.simpleTransperentLabel4.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel4.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel4.Location = new System.Drawing.Point(21, 220);
+            this.simpleTransperentLabel4.Location = new System.Drawing.Point(21, 250);
             this.simpleTransperentLabel4.Name = "simpleTransperentLabel4";
             this.simpleTransperentLabel4.Size = new System.Drawing.Size(39, 17);
             this.simpleTransperentLabel4.TabIndex = 9;
@@ -122,7 +125,7 @@
             "Byte",
             "AlphaNumeric",
             "Numeric"});
-            this.cbEncoding.Location = new System.Drawing.Point(144, 170);
+            this.cbEncoding.Location = new System.Drawing.Point(144, 191);
             this.cbEncoding.Name = "cbEncoding";
             this.cbEncoding.Size = new System.Drawing.Size(145, 24);
             this.cbEncoding.TabIndex = 13;
@@ -143,7 +146,7 @@
             "M",
             "Q",
             "H"});
-            this.cbCorrectionLevel.Location = new System.Drawing.Point(344, 170);
+            this.cbCorrectionLevel.Location = new System.Drawing.Point(345, 191);
             this.cbCorrectionLevel.Name = "cbCorrectionLevel";
             this.cbCorrectionLevel.Size = new System.Drawing.Size(150, 24);
             this.cbCorrectionLevel.TabIndex = 14;
@@ -164,7 +167,7 @@
             "sfsdfsd",
             "fsdfsdf",
             "sdfsdf"});
-            this.cbVersion.Location = new System.Drawing.Point(144, 216);
+            this.cbVersion.Location = new System.Drawing.Point(144, 246);
             this.cbVersion.Name = "cbVersion";
             this.cbVersion.Size = new System.Drawing.Size(145, 24);
             this.cbVersion.TabIndex = 15;
@@ -173,7 +176,7 @@
             // 
             this.btnChooseLogo.BackColor = System.Drawing.Color.Transparent;
             this.btnChooseLogo.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
-            this.btnChooseLogo.Location = new System.Drawing.Point(460, 125);
+            this.btnChooseLogo.Location = new System.Drawing.Point(458, 136);
             this.btnChooseLogo.Name = "btnChooseLogo";
             this.btnChooseLogo.Size = new System.Drawing.Size(37, 23);
             this.btnChooseLogo.TabIndex = 19;
@@ -215,7 +218,7 @@
             this.btnS.Enabled = false;
             this.btnS.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
             this.btnS.ForeColor = System.Drawing.Color.Black;
-            this.btnS.Location = new System.Drawing.Point(422, 308);
+            this.btnS.Location = new System.Drawing.Point(420, 307);
             this.btnS.Name = "btnS";
             this.btnS.Size = new System.Drawing.Size(75, 23);
             this.btnS.TabIndex = 24;
@@ -228,7 +231,7 @@
             this.simpleTransperentLabel7.AutoSize = true;
             this.simpleTransperentLabel7.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel7.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel7.Location = new System.Drawing.Point(21, 128);
+            this.simpleTransperentLabel7.Location = new System.Drawing.Point(21, 139);
             this.simpleTransperentLabel7.Name = "simpleTransperentLabel7";
             this.simpleTransperentLabel7.Size = new System.Drawing.Size(39, 17);
             this.simpleTransperentLabel7.TabIndex = 26;
@@ -265,7 +268,8 @@
             this.simpleTransperentLabel6.AutoSize = true;
             this.simpleTransperentLabel6.BackColor = System.Drawing.Color.Transparent;
             this.simpleTransperentLabel6.Font = new System.Drawing.Font("Tahoma", 10F);
-            this.simpleTransperentLabel6.Location = new System.Drawing.Point(21, 265);
+            this.simpleTransperentLabel6.ForeColor = System.Drawing.Color.Black;
+            this.simpleTransperentLabel6.Location = new System.Drawing.Point(280, 250);
             this.simpleTransperentLabel6.Name = "simpleTransperentLabel6";
             this.simpleTransperentLabel6.Size = new System.Drawing.Size(126, 17);
             this.simpleTransperentLabel6.TabIndex = 29;
@@ -303,9 +307,10 @@
             // txtLogo
             // 
             this.txtLogo.BackColor = System.Drawing.Color.Transparent;
+            this.txtLogo.Enabled = false;
             this.txtLogo.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
             this.txtLogo.ForeColor = System.Drawing.Color.White;
-            this.txtLogo.Location = new System.Drawing.Point(144, 124);
+            this.txtLogo.Location = new System.Drawing.Point(144, 135);
             this.txtLogo.MaxLength = 32767;
             this.txtLogo.MultiLine = false;
             this.txtLogo.Name = "txtLogo";
@@ -317,9 +322,10 @@
             // txtScale
             // 
             this.txtScale.BackColor = System.Drawing.Color.Transparent;
+            this.txtScale.Enabled = false;
             this.txtScale.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
             this.txtScale.ForeColor = System.Drawing.Color.White;
-            this.txtScale.Location = new System.Drawing.Point(344, 216);
+            this.txtScale.Location = new System.Drawing.Point(144, 393);
             this.txtScale.MaxLength = 32767;
             this.txtScale.MultiLine = false;
             this.txtScale.Name = "txtScale";
@@ -347,9 +353,9 @@
             // 
             this.btnQRCodeForegroundColor.BackColor = System.Drawing.Color.Black;
             this.btnQRCodeForegroundColor.ForeColor = System.Drawing.Color.White;
-            this.btnQRCodeForegroundColor.Location = new System.Drawing.Point(144, 262);
+            this.btnQRCodeForegroundColor.Location = new System.Drawing.Point(418, 247);
             this.btnQRCodeForegroundColor.Name = "btnQRCodeForegroundColor";
-            this.btnQRCodeForegroundColor.Size = new System.Drawing.Size(350, 23);
+            this.btnQRCodeForegroundColor.Size = new System.Drawing.Size(77, 23);
             this.btnQRCodeForegroundColor.TabIndex = 35;
             this.btnQRCodeForegroundColor.Text = "Choose color";
             this.btnQRCodeForegroundColor.UseVisualStyleBackColor = false;
@@ -370,11 +376,13 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.simpleTransperentLabel8);
+            this.groupBox1.Controls.Add(this.simpleTransperentLabel6);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.groupBox1.ForeColor = System.Drawing.Color.Red;
-            this.groupBox1.Location = new System.Drawing.Point(15, 154);
+            this.groupBox1.Location = new System.Drawing.Point(15, 183);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(482, 135);
+            this.groupBox1.Size = new System.Drawing.Size(482, 90);
             this.groupBox1.TabIndex = 37;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Recommendations";
@@ -409,20 +417,43 @@
             this.btnIG.Zoom = 10;
             this.btnIG.Click += new System.EventHandler(this.btnIG_Click);
             // 
+            // chkbD
+            // 
+            this.chkbD.AutoSize = true;
+            this.chkbD.BackColor = System.Drawing.Color.Transparent;
+            this.chkbD.Location = new System.Drawing.Point(80, 139);
+            this.chkbD.Name = "chkbD";
+            this.chkbD.Size = new System.Drawing.Size(60, 17);
+            this.chkbD.TabIndex = 40;
+            this.chkbD.Text = "Default";
+            this.chkbD.UseVisualStyleBackColor = false;
+            // 
+            // simpleTransperentLabel8
+            // 
+            this.simpleTransperentLabel8.AutoSize = true;
+            this.simpleTransperentLabel8.BackColor = System.Drawing.Color.Transparent;
+            this.simpleTransperentLabel8.Font = new System.Drawing.Font("Tahoma", 10F);
+            this.simpleTransperentLabel8.ForeColor = System.Drawing.Color.Black;
+            this.simpleTransperentLabel8.Location = new System.Drawing.Point(278, 67);
+            this.simpleTransperentLabel8.Name = "simpleTransperentLabel8";
+            this.simpleTransperentLabel8.Size = new System.Drawing.Size(126, 17);
+            this.simpleTransperentLabel8.TabIndex = 41;
+            this.simpleTransperentLabel8.Text = "ForeColor QR Code";
+            // 
             // QRCodeGenerator
             // 
             this.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.ClientSize = new System.Drawing.Size(768, 346);
+            this.ClientSize = new System.Drawing.Size(768, 344);
+            this.Controls.Add(this.btnQRCodeForegroundColor);
+            this.Controls.Add(this.chkbD);
             this.Controls.Add(this.btnIG);
             this.Controls.Add(this.btnFB);
             this.Controls.Add(this.btnQRCodeBackgroundColor);
-            this.Controls.Add(this.btnQRCodeForegroundColor);
             this.Controls.Add(this.lblLink);
             this.Controls.Add(this.txtScale);
             this.Controls.Add(this.txtLogo);
             this.Controls.Add(this.lblData);
             this.Controls.Add(this.simpleTransperentLabel5);
-            this.Controls.Add(this.simpleTransperentLabel6);
             this.Controls.Add(this.btnD);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.simpleTransperentLabel7);
@@ -446,6 +477,8 @@
             this.Load += new System.EventHandler(this.QRCode_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picEncode)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnFB)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnIG)).EndInit();
             this.ResumeLayout(false);
@@ -481,5 +514,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private Bunifu.Framework.UI.BunifuImageButton btnFB;
         private Bunifu.Framework.UI.BunifuImageButton btnIG;
+        private System.Windows.Forms.CheckBox chkbD;
+        private Simpleblue_Theme.SimpleTransperentLabel simpleTransperentLabel8;
     }
 }

@@ -127,12 +127,11 @@ namespace DemoQRCodeGenerator
                     int y = image.Height / 2 - copyImage.Height / 2;
                     g.DrawImage(copyImage, x, y);
                 }
-
                 picEncode.Image = image;
             }
             catch
             {
-                DialogResult dlr = MessageBox.Show("Characters do not support!", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                DialogResult dlr = MessageBox.Show("Characters do not support! / Wrong path!", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 if (dlr == DialogResult.OK)
                 {
                     txtData.Text = "";
@@ -179,9 +178,17 @@ namespace DemoQRCodeGenerator
         private void btnD_Click(object sender, EventArgs e)
         {
             lblData.Text = "Text";
-            txtLogo.Text = "";
             txtData.Text = "";
+            txtData.Focus();
             picEncode.Image = null;
+            if (chkbD.Checked == true)
+            {
+
+            }
+            else
+            {
+                txtLogo.Text = "";
+            }
         }
 
         private void QRCode_Load(object sender, EventArgs e)
