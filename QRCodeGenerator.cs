@@ -55,7 +55,7 @@ namespace DemoQRCodeGenerator
         private void btnChooseLogo_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Filter = "JPEG Image|*.jpg|Bitmap Image|*.bmp|GIF Image|*.gif|PNG Image|*.png";
+            ofd.Filter = "Image|*.jpg;*.bmp;*.gif;*.png";
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 txtLogo.Text = ofd.FileName;

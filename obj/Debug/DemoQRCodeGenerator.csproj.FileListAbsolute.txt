@@ -20,7 +20,6 @@ D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Bunifu_UI_v1.5.3.dll
 D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\MaterialSkin.dll
 D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Redemption theme.dll
 D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\Simpleblue Theme.dll
-D:\Code\Visual Studio\QRCodeGenerator\bin\Debug\ThoughtWorks.QRCode.dll
 D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.csprojAssemblyReference.cache
 D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.Properties.Resources.resources
 D:\Code\Visual Studio\QRCodeGenerator\obj\Debug\DemoQRCodeGenerator.QRCodeGenerator.resources
